@@ -3,6 +3,9 @@ from flaskblog import app
 if __name__ == '__main__':
     app.run(debug=True)
 
+
+
+
 # Adding user to db
 # user_1 = User(username='Khatri7968', email='engrpawan111@gmail.com', password='password')
 # db.session.add(user_1)
