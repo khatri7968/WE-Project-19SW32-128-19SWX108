@@ -14,3 +14,5 @@ Here are some steps that you need to follow to be able to run this project:
 * Make sure you have python in your system and an ide like pycharm, vs code.
 * You have to install flask by writting `pip install flask` into your command prompt(cmd).
 * Open the downloaded folder in pycharm or any other ide you like and simply run this.
+
+For more inforamtion you can watch the following youtube video
