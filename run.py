@@ -33,4 +33,3 @@ if __name__ == '__main__':
 # post = Post.query.first()
 # post.user_id
 # post.author
-#
